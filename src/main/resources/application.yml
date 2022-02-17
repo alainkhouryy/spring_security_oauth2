@@ -1,0 +1,2 @@
+auth:
+  introspection-uri: "http://localhost:8090"
